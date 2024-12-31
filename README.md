@@ -1,2 +1,4 @@
 # LLGTN
-A Lightweight Local-Global Transformer Network with Adaptive Attention Windows for Single Image Super-Resolution
+Lightweight Image Super-Resolution via An Efficient Local-Global Transformer Network with Adaptive Attention Windows
+
+![Image](./Overview.png)
